@@ -233,11 +233,13 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 - **IMDB** veri setini oluşturan araştırmacılara
 - **PyTorch** ve **Scikit-learn** topluluklarına
 
+
 ## 📞 İletişim
 
-Proje hakkında sorularınız için:
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
 
-- GitHub Issues bölümünü kullanın
 - Pull Request ile katkıda bulunun
 - Projeyi yıldızlamayı unutmayın! ⭐
 
